@@ -1,0 +1,3 @@
+pkg.name: targets/boot
+pkg.type: target
+pkg.description: Bootloader
